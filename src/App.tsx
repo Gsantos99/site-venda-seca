@@ -1,3 +1,4 @@
+import Benefits from './components/Benefits'
 import ButtonAction from './components/Button'
 import InitialSection from './components/InitialSection'
 import SectionWrapper from './components/SectionWrapper'
@@ -11,16 +12,16 @@ function App() {
      
      <SectionWrapper backgroundcolor='orange' color='#ffffff'>
        <InitialSection/>
-      <ButtonAction><a href='https://kiwify.com.br/' target='_blank'>Garanta sua vaga</a></ButtonAction>
+      <ButtonAction><a href='https://pay.kiwify.com.br/T8iTdnI ' target='_blank'>Garanta sua vaga</a></ButtonAction>
       </SectionWrapper>  
      
      <SectionWrapper backgroundcolor='#ffffff' color='black'>
        <Testimony/>
-       <ButtonAction><a href='https://kiwify.com.br/' target='_blank'>Garanta sua vaga</a></ButtonAction>
+       <ButtonAction><a href='https://pay.kiwify.com.br/T8iTdnI ' target='_blank'>Garanta sua vaga</a></ButtonAction>
       </SectionWrapper>  
     
      <SectionWrapper backgroundcolor='orange' color='#ffffff' >
-      <h1>Beneficios</h1>
+      <Benefits/>
      </SectionWrapper>
 
      <SectionWrapper backgroundcolor='#ffffff' color='black' >

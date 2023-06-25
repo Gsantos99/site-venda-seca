@@ -6,6 +6,8 @@ max-width: 800px;
 height: auto;
 display: flex;
 
+
+
 img {
   width: 400px;
   height: auto;
