@@ -1,3 +1,5 @@
+import ButtonAction from './components/Button'
+import InitialSection from './components/InitialSection'
 import SectionWrapper from './components/SectionWrapper'
 
 function App() {
@@ -5,26 +7,18 @@ function App() {
 
   return (
     <>
-     <SectionWrapper backgroundcolor='black' color='#ffffff'>
-      
-      <h1>TÍTULO</h1>
-      <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi accusamus voluptatem odio doloribus alias! Qui tempore nostrum nihil vero, facere sit voluptas nesciunt rerum doloremque nulla deleniti corporis quae numquam eos assumenda animi quo! Harum.</div>
-  
+     
+     <SectionWrapper backgroundcolor='orange' color='#ffffff'>
+       <InitialSection/>
+      <ButtonAction><a href='https://kiwify.com.br/' target='_blank'>Garanta sua vaga</a></ButtonAction>
       </SectionWrapper>  
+     
+     <SectionWrapper backgroundcolor='#ffffff' color='black'>
+      <h1>Depoimentos</h1>
+      </SectionWrapper>  
+    
+     
 
-      <SectionWrapper backgroundcolor='blue'>
-      
-      <h1>TÍTULO</h1>
-      <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi accusamus voluptatem odio doloribus alias! Qui tempore nostrum nihil vero, facere sit voluptas nesciunt rerum doloremque nulla deleniti corporis quae numquam eos assumenda animi quo! Harum.</div>
-  
-      </SectionWrapper>  
-
-      <SectionWrapper backgroundcolor='green'>
-      
-      <h1>TÍTULO</h1>
-      <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi accusamus voluptatem odio doloribus alias! Qui tempore nostrum nihil vero, facere sit voluptas nesciunt rerum doloremque nulla deleniti corporis quae numquam eos assumenda animi quo! Harum.</div>
-  
-      </SectionWrapper>  
     </>
   )
 }
