@@ -1,12 +1,19 @@
 import styled from 'styled-components'
 
 export const TestimonyContainer = styled.div`
-max-width: 1024px;
+
+/* max-width: 1024px;
+height: auto; */
+
+width: 80%;
 height: auto;
+
 display: flex;
 justify-content: center;
 flex-wrap: wrap;
 gap: 10px;
+
+
 
 /* @media (min-width: 320px) {
 max-width: 320px;
