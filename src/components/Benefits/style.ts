@@ -10,6 +10,7 @@ display: flex;
 gap:10px;
 flex-wrap: wrap;
 justify-content: center;
+padding: 1.5em;
 
 /* background-color: red; */
 
@@ -24,10 +25,19 @@ padding: 10px;
 border-radius: 10px;
 text-align: center;
 
+
+
 background-color: #477588;
+
+p {
+  /* color: red; */
+  margin-top:10px;
+}
 
 img {
   width: 100%;
+  min-width: 250px;
+  height: 50%;
   border-radius: 10px;
 }
 

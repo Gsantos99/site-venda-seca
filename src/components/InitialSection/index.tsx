@@ -8,8 +8,8 @@ const InitialSection = () => {
     <HeadingText>
     <h1>SECA FÉRIAS</h1>
     <br></br>
-    <h2>ELIMINE ATÉ 24KG DE GORDURA
-     EM 4 SEMANAS E TENHA UMA TRANSFORMAÇÃO 360</h2>
+    <h2>ELIMINE ATÉ 6KG DE GORDURA
+     EM 4 SEMANAS E TENHA UMA TRANSFORMAÇÃO COMPLETA</h2>
      <br></br>
      <p>Alcance o corpo que você sempre desejou, tenha mais saúde física, espiritual, emocional, financeira e muito mais!</p>
      
