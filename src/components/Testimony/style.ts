@@ -8,7 +8,20 @@ justify-content: center;
 align-items: baseline;
 flex-wrap: wrap;
 gap: 10px;
-/* background-color: red; */
+
+@media (max-width: 768px) {
+    width: 100%;
+  }
+
+
+  @media (max-width: 425px) {
+    width: 100%;
+  } 
+  
+  @media (max-width: 320px) {
+    width: 100%;
+  } 
+
 
 `
 export const TestimonyCardStyled = styled.div`
@@ -19,6 +32,8 @@ img {
   width: 100%;
   height: auto;
 }
+
+
 
 
 `

@@ -12,7 +12,7 @@ flex-wrap: wrap;
 justify-content: center;
 padding: 1.5em;
 
-/* background-color: red; */
+
 
 
 `
@@ -40,6 +40,9 @@ img {
   height: 50%;
   border-radius: 10px;
 }
+
+
+
 
 `
 

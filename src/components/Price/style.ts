@@ -36,4 +36,39 @@ font-size: 1.35rem;
   color: red;
 }
 
+
+@media (max-width: 768px) {
+  li {
+  font-size: 25px ;
+ }
+
+ h2 {
+  font-size: 30px;
+ }
+}
+
+
+@media (max-width: 425px) {
+li {
+  font-size:15px ;
+ }
+
+ h2 {
+  font-size: 20px;
+ }
+
+} 
+
+@media (max-width: 320px) {
+
+ li {
+  font-size:15px ;
+ }
+
+ h2 {
+  font-size: 20px;
+ }
+
+} 
+
 `

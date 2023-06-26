@@ -14,7 +14,7 @@ function App() {
      
      <SectionWrapper backgroundcolor='orange' color='#ffffff'>
        <InitialSection/>
-      <ButtonAction><a href='https://pay.kiwify.com.br/T8iTdnI ' target='_blank'>Garanta sua vaga!</a></ButtonAction>
+      <ButtonAction><a href='https://pay.kiwify.com.br/T8iTdnI ' target='_blank'>Garanta sua vaga! Clique aqui</a></ButtonAction>
       </SectionWrapper>  
      
      <SectionWrapper backgroundcolor='#ffffff' color='black'>
@@ -24,12 +24,12 @@ function App() {
     
      <SectionWrapper backgroundcolor='orange' color='#ffffff' >
       <Benefits/>
-      <ButtonAction><a href='https://pay.kiwify.com.br/T8iTdnI ' target='_blank'>Garanta sua vaga!</a></ButtonAction>
+      <ButtonAction><a href='https://pay.kiwify.com.br/T8iTdnI ' target='_blank'>Garanta sua vaga! Clique aqui</a></ButtonAction>
      </SectionWrapper>
 
      <SectionWrapper backgroundcolor='#ffffff' color='black' >
       <Price />
-      <ButtonAction><a href='https://pay.kiwify.com.br/T8iTdnI ' target='_blank'>Comece sua mudança!</a></ButtonAction>
+      <ButtonAction><a href='https://pay.kiwify.com.br/T8iTdnI ' target='_blank'>Comece sua mudança! Clique aqui</a></ButtonAction>
      </SectionWrapper>
 
      <SectionWrapper backgroundcolor='orange' color='#ffffff' >
