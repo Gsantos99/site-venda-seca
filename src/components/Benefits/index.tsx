@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { BenefitsCard, BenefitsContainer } from './style'
 
 const Benefits = () => {
