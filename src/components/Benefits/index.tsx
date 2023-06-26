@@ -4,6 +4,7 @@ import { BenefitsCard, BenefitsContainer } from './style'
 const Benefits = () => {
   return (
     <BenefitsContainer> 
+
     
     <BenefitsCard>
       <img src="https://saude.abril.com.br/wp-content/uploads/2020/09/reconecte-se-com-a-comida-abre-dossie%CC%82.png?w=1024&resize=1200,800" alt="foto" />
