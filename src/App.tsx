@@ -1,5 +1,6 @@
 import Benefits from './components/Benefits'
 import ButtonAction from './components/Button'
+import Footer from './components/Footer'
 import InitialSection from './components/InitialSection'
 import SectionWrapper from './components/SectionWrapper'
 import Testimony from './components/Testimony'
@@ -29,7 +30,7 @@ function App() {
      </SectionWrapper>
 
      <SectionWrapper backgroundcolor='orange' color='#ffffff' >
-      <h1>Footer </h1>
+      <Footer title='Seca Férias' year={2023}/>
      </SectionWrapper>
      
 
