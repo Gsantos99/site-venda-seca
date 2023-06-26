@@ -11,11 +11,15 @@ export const ButtonStyled = styled.button`
     background-image: linear-gradient(180deg, #07F265 0%, #02704F 100%);
     border-radius: 20px 20px 20px 20px;
     padding: 10px 40px 10px 40px;
-
+    
+ 
    a {
     text-decoration: none;
+    color: #ffff;
    }
 
-   
+   a:active {
+    color: #eee;
+   }
 
 `
